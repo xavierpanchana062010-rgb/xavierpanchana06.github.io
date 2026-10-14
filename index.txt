@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Mis redes sociales y formas de contacto.">
+  <title>Xavier Toro | Redes y contacto</title>
+
+  <style>
+    :root {
+      --fondo: #f3f4f6;
+      --tarjeta: #ffffff;
+      --texto: #172033;
+      --secundario: #667085;
+      --principal: #5b4bdb;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      padding: 28px 16px;
+      display: grid;
+      place-items: center;
+      font-family: Arial, Helvetica, sans-serif;
+      color: var(--texto);
+      
+background:
+  radial-gradient(ellipse at 8% 12%, rgba(255, 190, 0, 0.48), transparent 32%),
+  radial-gradient(ellipse at 92% 12%, rgba(166, 75, 225, 0.40), transparent 32%),
+  radial-gradient(ellipse at 8% 88%, rgba(35, 155, 255, 0.38), transparent 32%),
+  radial-gradient(ellipse at 92% 88%, rgba(105, 205, 75, 0.40), transparent 32%),
+  radial-gradient(ellipse at 50% 48%, rgba(255, 65, 105, 0.20), transparent 45%),
+  linear-gradient(135deg, #fff5e9, #f7efff 52%, #eaf7ff);
+
+
+    }
+
+    .contenedor {
+      width: 100%;
+      max-width: 440px;
+      padding: 32px 24px;
+      text-align: center;
+      background: var(--tarjeta);
+      border-radius: 24px;
+      box-shadow: 0 18px 50px rgba(23, 32, 51, 0.12);
+    }
+
+    /* TAMAÑO DEL LOGO */
+    .logo {
+      width: 120px;
+      height: 120px;
+      margin: 0 auto 18px;
+      display: block;
+      object-fit: contain;
+      padding: 5px;
+      border-radius: 50%;
+      background: #eceaff;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: 1.8rem;
+      overflow-wrap: anywhere;
+    }
+
+    .descripcion {
+      margin: 0 0 26px;
+      color: var(--secundario);
+      line-height: 1.5;
+    }
+
+    .enlaces {
+      display: grid;
+      gap: 12px;
+    }
+
+    .boton {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      width: 100%;
+      min-height: 52px;
+      padding: 13px 16px;
+      border-radius: 13px;
+      color: #fff;
+      font-weight: 700;
+      text-decoration: none;
+      transition: transform 0.15s ease, opacity 0.15s ease;
+    }
+
+    .boton:hover {
+      transform: translateY(-2px);
+      opacity: 0.92;
+    }
+
+    .boton:focus-visible {
+      outline: 3px solid var(--texto);
+      outline-offset: 3px;
+    }
+
+    .facebook {
+      background: #1877f2;
+    }
+
+    .instagram {
+      background: linear-gradient(
+        110deg, #833ab4, #e1306c, #f77737
+      );
+    }
+
+    .whatsapp {
+      background: #25d366;
+      color: #073b20;
+    }
+
+    .telefono {
+      background: var(--principal);
+    }
+
+    .tiktok {
+      background: linear-gradient(135deg, #000, #252525);
+      border: 2px solid #fe2c55;
+    }
+
+    .tiktok:hover {
+      background: #fe2c55;
+    }
+
+    .nota {
+      margin: 24px 0 0;
+      color: var(--secundario);
+      font-size: 0.85rem;
+    }
+
+    footer {
+      margin-top: 22px;
+      color: var(--secundario);
+      font-size: 0.8rem;
+    }
+
+    @media (max-width: 360px) {
+      .contenedor {
+        padding: 26px 18px;
+      }
+
+      h1 {
+        font-size: 1.55rem;
+      }
+
+      .logo {
+        width: 110px;
+        height: 110px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="contenedor">
+
+    
+<!-- LOGO: pega aquí el vínculo directo de tu imagen -->
+<img
+  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/90a70f1e-47ba-4547-a476-cf51e4fe7bb6/di7w253-7033764f-c64e-4021-ac00-dd7e900ca0cb.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85MGE3MGYxZS00N2JhLTQ1NDctYTQ3Ni1jZjUxZTRmZTdiYjYvZGk3dzI1My03MDMzNzY0Zi1jNjRlLTQwMjEtYWMwMC1kZDdlOTAwY2EwY2IuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LaYK4ACA4W2z7GATx5MFdzdfCiLblbZJzgZBOucOBog"
+  alt="Logo de Xavier Emiliano Toro Panchana"
+  class="logo"
+>
+
+
+    <h1>Xavier Emiliano Toro Panchana</h1>
+
+    <p class="descripcion">
+      ¡Hola! Encuéntrame en mis redes sociales
+      o comunícate conmigo.
+    </p>
+
+    <nav class="enlaces" aria-label="Redes sociales y contacto">
+
+      <!-- FACEBOOK -->
+      <a
+        class="boton facebook"
+        href="https://www.facebook.com/xavier.panchana.2025"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <span aria-hidden="true">📘</span>
+        Facebook
+      </a>
+
+      <!-- INSTAGRAM -->
+      <a
+        class="boton instagram"
+        href="https://www.instagram.com/xavier_t06/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <span aria-hidden="true">📸</span>
+        Instagram
+      </a>
+
+      <!-- TIKTOK: reemplaza TU_USUARIO -->
+      <a
+        class="boton tiktok"
+        href="https://www.tiktok.com/@xavier13453"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <span aria-hidden="true">♪</span>
+        TikTok
+      </a>
+
+      <!-- TELEFONO -->
+      <a class="boton telefono" href="tel:+593963178505">
+        <span aria-hidden="true">📞</span>
+        Llamar por teléfono
+      </a>
+
+      <!-- WHATSAPP -->
+      <a
+        class="boton whatsapp"
+        href="https://wa.me/593963178505"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <span aria-hidden="true">💬</span>
+        Escribirme por WhatsApp
+      </a>
+
+    </nav>
+
+    <p class="nota">
+      Gracias por visitar mi página.
+    </p>
+
+    <footer>
+      © <span id="anio"></span> Xavier Emiliano Toro Panchana
+    </footer>
+
+  </main>
+
+  <script>
+    document.getElementById("anio").textContent =
+      new Date().getFullYear();
+  </script>
+</body>
+</html>
